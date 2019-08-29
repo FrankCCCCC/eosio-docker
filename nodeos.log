@@ -1,0 +1,8 @@
+
+Command 'nodeos' not found, did you mean:
+
+  command 'nodefs' from deb noweb
+  command 'nodejs' from deb nodejs
+
+Try: sudo apt install <deb name>
+
